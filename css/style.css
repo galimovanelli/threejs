@@ -1,0 +1,180 @@
+body {
+    margin: 0 auto;
+    background-color: #302835
+}
+
+canvas {
+    width: 100%;
+    height: 100%
+}
+
+.button_1 { 
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #7617c8 !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    left: 266px;
+    margin: 0 auto;
+}
+
+.button_1:hover {
+    text-decoration: none !important;
+    background-color: #7617c8 !important;
+    color: #ffeded !important;
+    border-color: #7617c8 !important;
+}
+
+.button_2 { 
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #3832c7 !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    left: 280px;
+    margin: 0 auto;
+}
+
+.button_2:hover {
+    text-decoration: none !important;
+    background-color: #3832c7 !important;
+    color: #ffeded !important;
+    border-color: #3832c7 !important;
+
+}
+
+.button_3 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #1c7ccf !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    left: 295px;
+    margin: 0 auto;
+}
+
+.button_3:hover { 
+    text-decoration: none !important;
+    background-color: #30cfbc !important;
+    color: #ffeded !important;
+    border-color: #30cfbc !important;
+
+}
+
+.button_4 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #30cfbc !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    left: 310px;
+    margin: 0 auto;
+}
+
+.button_4:hover { 
+    text-decoration: none !important;
+    background-color: #22b8c1 !important;
+    color: #ffeded !important;
+    border-color: #22b8c1 !important;
+}
+
+.button_5 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #c73ace !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    right: 730px;
+    margin: 0 auto;
+}
+
+.button_5:hover {
+    text-decoration: none !important;
+    background-color: #c73ace !important;
+    color: #ffeded !important;
+    border-color: #c73ace !important;
+}
+
+.button_6 { 
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #abf3b4 !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    left: 115px;
+    margin: 0 auto;
+}
+
+.button_6:hover {
+    text-decoration: none !important;
+    background-color: #abf3b4 !important;
+    color: #ffeded !important;
+    border-color: #abf3b4 !important;
+}
+
+.button_7 { 
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #302835 !important;
+    color: #eaeaea !important;
+    border: 3px solid #f4b0bf !important;
+    border-radius: 20px !important;
+    font-size: 20px !important;
+    font-family: Helvetica;
+    padding: 30px 60px !important;
+    transition: all 0.8s ease !important;
+    position: relative;
+    top: 20px;
+    left: 130px;
+    margin: 0 auto;
+}
+
+.button_7:hover {
+    text-decoration: none !important;
+    background-color: #f4b0bf !important;
+    color: #ffeded !important;
+    border-color: #f4b0bf !important;
+}
+
